@@ -15,8 +15,12 @@ This project implements a real-world **Clinic Booking System** database using *M
    Guess what, here is how you can run or set up the Project
    1. Clone this repository
    2. ---bash
-   3. git clone htpps://github.com/your-username/Clinic-Booking-system.git
+   3. git clone htpps://github.com/'root@localhost'
+/Clinic-Booking-system.git
    4. cd Clinic-Booking-system
+
+
+
 
 
 https://drawsql.app/teams/brians-1/diagrams/clinic-booking-system
