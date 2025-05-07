@@ -17,3 +17,6 @@ This project implements a real-world **Clinic Booking System** database using *M
    2. ---bash
    3. git clone htpps://github.com/your-username/Clinic-Booking-system.git
    4. cd Clinic-Booking-system
+
+
+https://drawsql.app/teams/brians-1/diagrams/clinic-booking-system
